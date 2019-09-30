@@ -1,2 +1,2 @@
 # memory
-Memory in C#
+Memoryspel in C# met Windows Presentation Foundation
