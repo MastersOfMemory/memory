@@ -1,2 +1,2 @@
 # memory
-Memoryspel in C# met Windows Presentation Foundation
+De branch van het ontwerp van het memoryspel
