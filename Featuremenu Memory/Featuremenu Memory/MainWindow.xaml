@@ -7,6 +7,17 @@
         mc:Ignorable="d"
         Title="Instellingen" Height="450" Width="800">
     <Grid>
+        <TextBlock>Kies welk thema je wilt gebruiken:</TextBlock>
+        <StackPanel>
+            <RadioButton GroupName="Thema" Content="Pixel art (standaard)" IsChecked="True"/>
+            <RadioButton GroupName="Thema" Content="Mozaïek"/>
+        </StackPanel>
+        <TextBlock>Hoe groot moet het kaartenraster zijn?</TextBlock>
+        <StackPanel>
+            <RadioButton GroupName="RasterGrootte" Content="4 bij 4"/>
+            <RadioButton GroupName="RasterGrootte" Content="8 bij 8"/>
+        </StackPanel>
+        <!-- Een selectielijst in een balk die aan de bovenkant van het venster zit (alleen voor referentie, liever met radio buttons)
         <DockPanel>
             <Menu DockPanel.Dock="Top">
         <MenuItem Header="_Thema">
@@ -17,6 +28,6 @@
         </MenuItem>
     </Menu>
     <TextBox AcceptsReturn="True" />
-        </DockPanel>
+        </DockPanel>-->
     </Grid>
 </Window>
