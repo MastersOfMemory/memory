@@ -46,7 +46,7 @@
                Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="5"/>
 
         <StackPanel Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="5">
-            <RadioButton GroupName="RasterGrootte" Content="4 bij 4"/>
+            <RadioButton GroupName="RasterGrootte" Content="4 bij 4" IsChecked="True"/>
             <RadioButton GroupName="RasterGrootte" Content="8 bij 8"/>
         </StackPanel>
 
@@ -57,7 +57,7 @@
                Grid.Column="4" Grid.Row="2" Grid.ColumnSpan="5"/>
 
         <StackPanel Grid.Column="4" Grid.Row="3" Grid.ColumnSpan="5">
-            <RadioButton GroupName="ThemaSelectie" Content="Pixelart"/>
+            <RadioButton GroupName="ThemaSelectie" Content="Pixelart" IsChecked="True"/>
             <RadioButton GroupName="ThemaSelectie" Content="Mozaïek"/>
         </StackPanel>
 
