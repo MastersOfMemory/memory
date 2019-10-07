@@ -7,17 +7,61 @@
         mc:Ignorable="d"
         Title="Instellingen" Height="450" Width="800">
     <Grid>
-        <TextBlock>Kies welk thema je wilt gebruiken:</TextBlock>
-        <StackPanel>
-            <RadioButton GroupName="Thema" Content="Pixel art (standaard)" IsChecked="True"/>
-            <RadioButton GroupName="Thema" Content="Mozaïek"/>
-        </StackPanel>
-        <TextBlock>Hoe groot moet het kaartenraster zijn?</TextBlock>
-        <StackPanel>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="45"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="80"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Dit is het instellingenmenu"
+               FontSize="15"
+               FontWeight="Bold"
+               Foreground="Black"
+               Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="5"/>
+
+        <Label Content="Rastergrootte"
+               FontSize="15"
+               FontWeight="Bold"
+               Foreground="Black"
+               Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="5"/>
+
+        <StackPanel Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="5">
             <RadioButton GroupName="RasterGrootte" Content="4 bij 4"/>
             <RadioButton GroupName="RasterGrootte" Content="8 bij 8"/>
         </StackPanel>
-        <!-- Een selectielijst in een balk die aan de bovenkant van het venster zit (alleen voor referentie, liever met radio buttons)
+
+        <Label Content="Thema"
+               FontSize="15"
+               FontWeight="Bold"
+               Foreground="Black"
+               Grid.Column="4" Grid.Row="2" Grid.ColumnSpan="5"/>
+
+        <StackPanel Grid.Column="4" Grid.Row="3" Grid.ColumnSpan="5">
+            <RadioButton GroupName="ThemaSelectie" Content="Pixelart"/>
+            <RadioButton GroupName="ThemaSelectie" Content="Mozaïek"/>
+        </StackPanel>
+
+        <!-- Een selectielijst in een balk die aan de bovenkant van het venster zit (voor referentie)
         <DockPanel>
             <Menu DockPanel.Dock="Top">
         <MenuItem Header="_Thema">

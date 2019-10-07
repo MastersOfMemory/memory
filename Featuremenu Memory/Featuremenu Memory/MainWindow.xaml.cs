@@ -23,7 +23,6 @@ namespace Featuremenu_Memory
         public MainWindow()
         {
             InitializeComponent();
-            
 
         }
     }
