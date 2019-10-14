@@ -1,0 +1,32 @@
+﻿<Page x:Class="MemoryGame_Project.menu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MemoryGame_Project"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Menu | Masters of Memory">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.25*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="0.25*" />
+        </Grid.RowDefinitions>
+
+        <!--Menu Title-->
+        <TextBlock Grid.Row="1" Text="Master of Memory" FontWeight="Bold" TextAlignment="Center" Grid.ColumnSpan="3" FontSize="28"/>
+
+        <!--Menu Items-->
+        <StackPanel Grid.Row="1" VerticalAlignment="Center" Grid.ColumnSpan="3" >
+            <Label FontSize="22" Name="StartGame" Grid.Column="1" Grid.Row="1" HorizontalContentAlignment="Center" MouseLeftButtonUp="StartGame_MouseLeftButtonUp" Content="Start Game"></Label>
+            <Label FontSize="22" Name="highScores" Grid.Column="1" Grid.Row="1" HorizontalContentAlignment="Center" MouseLeftButtonUp="HighScores_MouseLeftButtonUp" Content="High Scores"></Label>
+        </StackPanel>
+    </Grid>
+</Page>
