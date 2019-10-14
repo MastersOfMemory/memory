@@ -13,3 +13,17 @@ C:\Users\LAPTOP\Documents\School\Memory\Featuremenu Memory\Featuremenu Memory\ob
 C:\Users\LAPTOP\Documents\School\Memory\Featuremenu Memory\Featuremenu Memory\obj\Debug\Featuremenu Memory.csproj.CoreCompileInputs.cache
 C:\Users\LAPTOP\Documents\School\Memory\Featuremenu Memory\Featuremenu Memory\obj\Debug\Featuremenu Memory.exe
 C:\Users\LAPTOP\Documents\School\Memory\Featuremenu Memory\Featuremenu Memory\obj\Debug\Featuremenu Memory.pdb
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Featuremenu Memory\Featuremenu Memory\bin\Debug\Featuremenu Memory.exe.config
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Featuremenu Memory\Featuremenu Memory\bin\Debug\Featuremenu Memory.exe
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Featuremenu Memory\Featuremenu Memory\bin\Debug\Featuremenu Memory.pdb
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Featuremenu Memory\Featuremenu Memory\obj\Debug\Featuremenu Memory.csprojAssemblyReference.cache
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Featuremenu Memory\Featuremenu Memory\obj\Debug\MainWindow.g.cs
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Featuremenu Memory\Featuremenu Memory\obj\Debug\App.g.cs
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Featuremenu Memory\Featuremenu Memory\obj\Debug\Featuremenu Memory_MarkupCompile.cache
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Featuremenu Memory\Featuremenu Memory\obj\Debug\Featuremenu Memory_MarkupCompile.lref
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Featuremenu Memory\Featuremenu Memory\obj\Debug\MainWindow.baml
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Featuremenu Memory\Featuremenu Memory\obj\Debug\Featuremenu Memory.g.resources
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Featuremenu Memory\Featuremenu Memory\obj\Debug\Featuremenu_Memory.Properties.Resources.resources
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Featuremenu Memory\Featuremenu Memory\obj\Debug\Featuremenu Memory.csproj.GenerateResource.cache
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Featuremenu Memory\Featuremenu Memory\obj\Debug\Featuremenu Memory.exe
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Featuremenu Memory\Featuremenu Memory\obj\Debug\Featuremenu Memory.pdb
