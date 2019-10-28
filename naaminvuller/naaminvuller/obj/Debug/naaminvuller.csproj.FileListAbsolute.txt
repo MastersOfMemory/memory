@@ -1,0 +1,15 @@
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\bin\Debug\naaminvuller.exe.config
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\bin\Debug\naaminvuller.exe
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\bin\Debug\naaminvuller.pdb
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\obj\Debug\naaminvuller.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\obj\Debug\MainWindow.g.cs
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\obj\Debug\App.g.cs
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\obj\Debug\naaminvuller_MarkupCompile.cache
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\obj\Debug\naaminvuller_MarkupCompile.lref
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\obj\Debug\MainWindow.baml
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\obj\Debug\naaminvuller.g.resources
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\obj\Debug\naaminvuller.Properties.Resources.resources
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\obj\Debug\naaminvuller.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\obj\Debug\naaminvuller.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\obj\Debug\naaminvuller.exe
+C:\Users\marco\source\repos\naaminvuller\naaminvuller\obj\Debug\naaminvuller.pdb
