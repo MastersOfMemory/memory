@@ -1,0 +1,17 @@
+C:\Users\marco\source\repos\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\marco\source\repos\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\marco\source\repos\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\marco\source\repos\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\Timer\Timer\obj\Debug\MainWindow.g.cs
+C:\Users\marco\source\repos\Timer\Timer\obj\Debug\App.g.cs
+C:\Users\marco\source\repos\Timer\Timer\obj\Debug\Timer_MarkupCompile.cache
+C:\Users\marco\source\repos\Timer\Timer\obj\Debug\Timer_MarkupCompile.lref
+C:\Users\marco\source\repos\Timer\Timer\obj\Debug\MainWindow.baml
+C:\Users\marco\source\repos\Timer\Timer\obj\Debug\Timer.g.resources
+C:\Users\marco\source\repos\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\marco\source\repos\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\marco\source\repos\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\marco\source\repos\Timer\Timer\bin\Debug\Timer.exe.CodeAnalysisLog.xml
+C:\Users\marco\source\repos\Timer\Timer\bin\Debug\Timer.exe.lastcodeanalysissucceeded
