@@ -1,0 +1,11 @@
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Savefile\Savefile\bin\Debug\netcoreapp3.0\Savefile.exe
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Savefile\Savefile\bin\Debug\netcoreapp3.0\Savefile.deps.json
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Savefile\Savefile\bin\Debug\netcoreapp3.0\Savefile.runtimeconfig.json
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Savefile\Savefile\bin\Debug\netcoreapp3.0\Savefile.runtimeconfig.dev.json
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Savefile\Savefile\bin\Debug\netcoreapp3.0\Savefile.dll
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Savefile\Savefile\bin\Debug\netcoreapp3.0\Savefile.pdb
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Savefile\Savefile\obj\Debug\netcoreapp3.0\Savefile.csprojAssemblyReference.cache
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Savefile\Savefile\obj\Debug\netcoreapp3.0\Savefile.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Savefile\Savefile\obj\Debug\netcoreapp3.0\Savefile.AssemblyInfo.cs
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Savefile\Savefile\obj\Debug\netcoreapp3.0\Savefile.dll
+C:\Users\LAPTOP\Documents\School\Memoryproject\Memory\Savefile\Savefile\obj\Debug\netcoreapp3.0\Savefile.pdb

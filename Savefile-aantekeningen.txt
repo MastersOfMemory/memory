@@ -1,0 +1,5 @@
+30 plekken in de highscorelijst
+
+in een vast punt in het programma (na het voltooien van een spel bv.) worden die 30 highscores naar het .sav-bestand geschreven.
+
+elke keer bij het opstarten van het programma, wordt het bestand ingeladen met een loop die door alle regels in het bestand loopt en het wegschrijft naar een array (met een lengte van 30). Deze array wordt gebruikt in het highscoremenu om de highscores van in te laden 
