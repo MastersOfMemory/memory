@@ -66,6 +66,9 @@
     <Compile Include="View\GamePropertiesView.xaml.cs">
       <DependentUpon>GamePropertiesView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="View\Highscores.xaml.cs">
+      <DependentUpon>Highscores.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\PlayFieldView.xaml.cs">
       <DependentUpon>PlayFieldView.xaml</DependentUpon>
     </Compile>
@@ -85,6 +88,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="View\GamePropertiesView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Highscores.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

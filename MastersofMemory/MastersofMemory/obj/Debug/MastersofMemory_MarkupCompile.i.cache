@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\dirkv\source\repos\Project\MastersofMemory\MastersofMemory\obj\Debug\
+C:\Users\LAPTOP\Documents\School\Memoryproject\git\memory\MastersofMemory\MastersofMemory\obj\Debug\
 MastersofMemory
 none
 false
 DEBUG;TRACE
-C:\Users\dirkv\source\repos\Project\MastersofMemory\MastersofMemory\App.xaml
-4-819111268
+C:\Users\LAPTOP\Documents\School\Memoryproject\git\memory\MastersofMemory\MastersofMemory\App.xaml
+5-606540113
 
-17-788558181
+18-1056392236
 13-1505183044
-MainWindow.xaml;View\GamePropertiesView.xaml;View\PlayFieldView.xaml;View\StartView.xaml;
+MainWindow.xaml;View\GamePropertiesView.xaml;View\Highscores.xaml;View\PlayFieldView.xaml;View\StartView.xaml;
 
 True
 

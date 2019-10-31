@@ -30,7 +30,10 @@
             <StackPanel Grid.Row="0" VerticalAlignment="Bottom" Grid.ColumnSpan="3" >
                 <Button FontSize="22" Name="StartGame" Grid.Column="1" Grid.Row="0" HorizontalContentAlignment="Center" Click="StartGame_Click"  Content="Start Game" Margin="0 0 0 10"></Button>
             </StackPanel>
-
+            <StackPanel Grid.Row="1" VerticalAlignment="Top" Grid.ColumnSpan="3" >
+                <Button FontSize="22" Name="ViewHighscores" Grid.Column="1" Grid.Row="0" HorizontalContentAlignment="Center" Click="ViewHighscores_Click" Content="Highscores" Margin="0,0,10,10"></Button>
+            </StackPanel>
+            
             <Grid Grid.Column="1" Grid.Row="1" Margin="0 20 0 0">
             </Grid>
         </Grid>
