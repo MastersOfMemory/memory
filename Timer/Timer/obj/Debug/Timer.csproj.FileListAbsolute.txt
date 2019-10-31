@@ -13,5 +13,3 @@ C:\Users\marco\source\repos\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.
 C:\Users\marco\source\repos\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
 C:\Users\marco\source\repos\Timer\Timer\obj\Debug\Timer.exe
 C:\Users\marco\source\repos\Timer\Timer\obj\Debug\Timer.pdb
-C:\Users\marco\source\repos\Timer\Timer\bin\Debug\Timer.exe.CodeAnalysisLog.xml
-C:\Users\marco\source\repos\Timer\Timer\bin\Debug\Timer.exe.lastcodeanalysissucceeded
