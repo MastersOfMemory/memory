@@ -33,7 +33,6 @@ namespace MemoryGame
                 if (clicked)
                 {
                     return front;
-
                 }
                 else
                     return back;

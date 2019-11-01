@@ -104,8 +104,10 @@
     <Resource Include="icoontjes\5.png" />
     <Resource Include="icoontjes\6.png" />
     <Resource Include="icoontjes\7.png" />
-    <Resource Include="icoontjes\8.png" />
     <Resource Include="icoontjes\Death-Star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icoontjes\8.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

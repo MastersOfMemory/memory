@@ -67,8 +67,6 @@ namespace MemoryGame
                     previousTile = index;
 
                 ShowTiles();
-
-
             }
         }
 

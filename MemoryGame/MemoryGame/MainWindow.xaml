@@ -6,7 +6,30 @@
         xmlns:local="clr-namespace:MemoryGame"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid x:Name="MemoryGrid">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
         
+        <StackPanel DataContext="{Binding GameProperties}" Grid.Row="1" Margin="10 0 20 0" VerticalAlignment="Center">
+            <Label x:Name="FirstUsername_Label" FontSize="20" HorizontalAlignment="Center" FontWeight="Bold" />
+            <TextBlock Text="{Binding Score, StringFormat=Score: {0}}" FontSize="18"/>
+            <TextBlock Text="{Binding MatchTries, StringFormat=Tries Left: {0}}" FontSize="18"/>
+            <TextBlock Text="{Binding Timer.Time, StringFormat=Elapsed Time: {0}}"/>
+        </StackPanel>
+
+        <Button Name="PlayFieldMenu" Grid.Column="0" Grid.Row="2" Content="Menu" Width="80" Height="40" />
+        <Button Click="PlayFieldRetry_Click" Grid.Column="2" Grid.Row="2" Content="Retry" Width="80" Height="40" />
+        
+        <Grid x:Name="MemoryGrid">
+
+        </Grid>
     </Grid>
 </Window>
