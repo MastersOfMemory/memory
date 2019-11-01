@@ -96,5 +96,16 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icoontjes\1.png" />
+    <Resource Include="icoontjes\2.png" />
+    <Resource Include="icoontjes\3.png" />
+    <Resource Include="icoontjes\4.png" />
+    <Resource Include="icoontjes\5.png" />
+    <Resource Include="icoontjes\6.png" />
+    <Resource Include="icoontjes\7.png" />
+    <Resource Include="icoontjes\8.png" />
+    <Resource Include="icoontjes\Death-Star.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

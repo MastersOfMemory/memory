@@ -24,7 +24,9 @@ namespace MemoryGame
         public MemoryGrid(Grid g)
         {
             grid = g;
-            
+            Initialize();
+            AddImages();
+            ShowTiles();
         }
 
         //TODO: Fix de bug met kaarten over de achterkant van de kaart
@@ -58,12 +60,15 @@ namespace MemoryGame
                         MessageBox.Show("Fout!");
                     }
 
-                    NumberOfClickedTiles = 0;
 
+                    NumberOfClickedTiles = 0;
                 }
                 else
                     previousTile = index;
+
                 ShowTiles();
+
+
             }
         }
 
@@ -84,7 +89,7 @@ namespace MemoryGame
         {
             for (int i = 0; i < rows; i++)
             {
-                for (int j = 0; i < cols; j++)
+                for (int j = 0; j < cols; j++)
                 {
                     Image image = new Image();
                     image.MouseDown += new MouseButtonEventHandler(TileClick);
@@ -118,11 +123,11 @@ namespace MemoryGame
             {
                 int imageNumber = i % 8 + 1;
 
-                ImageSource image = new BitmapImage(new Uri("Icons/" + imageNumber + ".png", UriKind.Relative));
-
+                ImageSource image = new BitmapImage(new Uri("icoontjes/" + imageNumber + ".png", UriKind.Relative));
+                images.Add(image);
             }
 
-            //Ranomizer
+            //Randomizer
             Random random = new Random();
             for (int i = 0; i < (rows * cols); i++)
             {
