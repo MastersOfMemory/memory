@@ -15,7 +15,7 @@ namespace MemoryGame
 
         public Tiles(ImageSource frontTile)
         {
-            back = new BitmapImage(new Uri("Death-Star.png", UriKind.Relative));
+            back = new BitmapImage(new Uri("mozaik/kaart.png", UriKind.Relative));
             clicked = false;
             visible = true;
             front = frontTile;
@@ -33,6 +33,7 @@ namespace MemoryGame
                 if (clicked)
                 {
                     return front;
+
                 }
                 else
                     return back;

@@ -97,17 +97,15 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="icoontjes\1.png" />
-    <Resource Include="icoontjes\2.png" />
-    <Resource Include="icoontjes\3.png" />
-    <Resource Include="icoontjes\4.png" />
-    <Resource Include="icoontjes\5.png" />
-    <Resource Include="icoontjes\6.png" />
-    <Resource Include="icoontjes\7.png" />
-    <Resource Include="icoontjes\Death-Star.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="icoontjes\8.png" />
+    <Resource Include="mozaik\1.png" />
+    <Resource Include="mozaik\2.png" />
+    <Resource Include="mozaik\3.png" />
+    <Resource Include="mozaik\4.png" />
+    <Resource Include="mozaik\5.png" />
+    <Resource Include="mozaik\6.png" />
+    <Resource Include="mozaik\7.png" />
+    <Resource Include="mozaik\8.png" />
+    <Resource Include="mozaik\kaart.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

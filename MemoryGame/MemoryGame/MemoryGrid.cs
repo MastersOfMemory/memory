@@ -29,7 +29,6 @@ namespace MemoryGame
             ShowTiles();
         }
 
-        //TODO: Fix de bug met kaarten over de achterkant van de kaart
 
         private void TileClick(Object sender, MouseButtonEventArgs e)
         {
@@ -43,7 +42,7 @@ namespace MemoryGame
 
                 if (NumberOfClickedTiles == 2)
                 {
-                    //TODO bug fix controller kaartjes
+                    
                     if (tiles[previousTile].Show() == tiles[index].Show())
                     {
                         tiles[previousTile].MakeInvisible();
@@ -67,6 +66,8 @@ namespace MemoryGame
                     previousTile = index;
 
                 ShowTiles();
+
+
             }
         }
 
@@ -121,7 +122,7 @@ namespace MemoryGame
             {
                 int imageNumber = i % 8 + 1;
 
-                ImageSource image = new BitmapImage(new Uri("icoontjes/" + imageNumber + ".png", UriKind.Relative));
+                ImageSource image = new BitmapImage(new Uri("mozaik/" + imageNumber + ".png", UriKind.Relative));
                 images.Add(image);
             }
 
@@ -130,9 +131,9 @@ namespace MemoryGame
             for (int i = 0; i < (rows * cols); i++)
             {
                 int r = random.Next(0, (rows * cols));
-                ImageSource banaan = images[r];
+                ImageSource schaap = images[r];
                 images[r] = images[i];
-                images[i] = banaan;
+                images[i] = schaap;
             }
 
             return images;

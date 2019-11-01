@@ -1,4 +1,3 @@
-C:\Users\marco\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
 C:\Users\marco\source\repos\MemoryGame\MemoryGame\obj\Debug\MainWindow.g.cs
 C:\Users\marco\source\repos\MemoryGame\MemoryGame\obj\Debug\App.g.cs
 C:\Users\marco\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame_MarkupCompile.cache
@@ -13,18 +12,3 @@ C:\Users\marco\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.Ge
 C:\Users\marco\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
 C:\Users\marco\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
 C:\Users\marco\source\repos\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\obj\Debug\MainWindow.g.cs
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\obj\Debug\App.g.cs
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\obj\Debug\MemoryGame_MarkupCompile.cache
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\obj\Debug\MemoryGame_MarkupCompile.lref
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\obj\Debug\MainWindow.baml
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\obj\Debug\MemoryGame.g.resources
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
-C:\Users\dirkv\Desktop\MatchingMemory\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb

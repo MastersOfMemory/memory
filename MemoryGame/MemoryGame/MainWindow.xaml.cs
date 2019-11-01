@@ -25,7 +25,7 @@ namespace MemoryGame
         public MainWindow()
         {
             InitializeComponent();
-            mgrid = new MemoryGrid(MemoryGrid);
+            mgrid = new MemoryGrid(GameGrid);
         }
     }
 }
