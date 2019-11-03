@@ -1,0 +1,31 @@
+﻿<Page x:Class="mastersofmemory.Pages.playfield_menu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:mastersofmemory.Pages"
+      xmlns:usercontrols="clr-namespace:mastersofmemory.Pages.UserControls"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="playfield_menu">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Border Grid.Column="1" Grid.Row="1" VerticalAlignment="Stretch">
+            <StackPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Label Content="Return to Game" HorizontalAlignment="Center" VerticalAlignment="Top" MouseLeftButtonUp="Label_MouseLeftButtonUp"/>
+                <usercontrols:highscores></usercontrols:highscores>
+                <Label Content="Features" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="213,0"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>
